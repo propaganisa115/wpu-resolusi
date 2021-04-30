@@ -6,6 +6,8 @@ Resolusi saya ditahun 2021
 - mastering Javascript
 - mastering CSS
 - mastering ReactJs
+- mastering mysql
+- mastering mongoDB
 - mastering Vue.js
 - mastering ui/ux
 - mastering java
