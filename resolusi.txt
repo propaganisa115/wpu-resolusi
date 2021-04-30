@@ -7,4 +7,6 @@ Resolusi saya ditahun 2021
 - mastering CSS
 - mastering ReactJs
 - mastering Vue.js
-- create 10 portofolio
+- mastering ui/ux
+- mastering java
+- mastering python
