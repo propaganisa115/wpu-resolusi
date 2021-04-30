@@ -10,3 +10,6 @@ Resolusi saya ditahun 2021
 - mastering ui/ux
 - mastering java
 - mastering python
+- mastering django
+- mastering AGILE dev
+- mastering nodejs
