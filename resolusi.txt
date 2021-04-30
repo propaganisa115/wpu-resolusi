@@ -1,0 +1,10 @@
+Resolusi saya ditahun 2021
+- mastering PHP 
+- mastering Laravel
+- mastering OOP
+- mastering HTML5
+- mastering Javascript
+- mastering CSS
+- mastering ReactJs
+- mastering Vue.js
+- create 10 portofolio
